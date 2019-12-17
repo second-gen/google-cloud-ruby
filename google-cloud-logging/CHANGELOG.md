@@ -1,5 +1,11 @@
 # Release History
 
+### 1.9.2 / 2019-12-17
+
+#### Documentation
+
+* Update docs for lower-level API call MetricDescriptorMetadata#unit
+
 ### 1.9.1 / 2019-11-06
 
 #### Bug Fixes
