@@ -1,5 +1,16 @@
 # Release History
 
+### 0.37.0 / 2019-12-17
+
+#### Features
+
+* Introduce enable_cross_project_tracing option to the faraday middleware
+
+#### Performance Improvements
+
+* Update network configuration
+  * Update documentation
+
 ### 0.36.1 / 2019-11-06
 
 #### Bug Fixes
