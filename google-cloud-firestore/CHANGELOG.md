@@ -1,5 +1,11 @@
 # Release History
 
+### 1.2.2 / 2019-12-17
+
+#### Documentation
+
+* Update lower-level API documentation
+
 ### 1.2.1 / 2019-11-06
 
 #### Bug Fixes
