@@ -1,5 +1,11 @@
 # Release History
 
+### 0.40.1 / 2019-12-17
+
+#### Performance Improvements
+
+* Update network configuration
+
 ### 0.40.0 / 2019-11-19
 
 #### Features
